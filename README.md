@@ -1,3 +1,3 @@
 # AbdurHipo
-Answer for quetion no.2:
-For answer number 2, i make 
+## Note fot answer for question number 2:
+  _ First,  
